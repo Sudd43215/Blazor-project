@@ -1,0 +1,29 @@
+@inherits LayoutComponentBase
+
+<div id="app">
+
+    <header class="top-bar">
+        <a class="logo" href="">
+            <img src="img/pizza.png" />
+        </a>
+
+        <NavLink href="" class="nav-tab" Match="NavLinkMatch.All">
+            <img src="img/pizza-slice.svg" />
+            <div>choose your pizza</div>
+        </NavLink>
+
+        <NavLink href="myorders" class="nav-tab">
+            <img src="img/bike.svg" />
+            <div>check your order</div>
+        </NavLink>
+    </header>
+
+    <div class="content">
+        @Body
+    </div>
+
+    <footer>
+        &copy; Sudhir singh Pizza Store 2023
+    </footer>
+
+</div>
