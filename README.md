@@ -21,9 +21,26 @@
 - admin can able to deliver custmores pizza on time.
 - admin can maintain the details of old order by pagination features.
 
+## Home Page :
+![homepage](https://github.com/Sudd43215/Blazor-project/assets/139478665/342ea91b-4e16-4cee-9982-91971d60291e)
+
+---------------------------------------------------------------------------------------------------------------
+
+##  Order CheckOut Page :
+![checkOrder_page](https://github.com/Sudd43215/Blazor-project/assets/139478665/1604b32d-3726-4eda-a0d3-3a5b3e3ec26d)
+
+------------------------------------------------------------------------------------------------------------------------
+
+## Delivery Address Page :
+![delivery_address_page](https://github.com/Sudd43215/Blazor-project/assets/139478665/f448ae79-01d2-4bd2-b5a2-535266f792b7)
+
+--------------------------------------------------------------------------------------------------------------------------
+
+## Select And Modify Page :
+![select_order_page](https://github.com/Sudd43215/Blazor-project/assets/139478665/f8aa8672-4094-41c8-ad26-3aff23b30c08)
 
 
-![App Screenshot](/Er%20diagram/ER%20diagram.jpeg)
+-----------------------------------------------------------------------------------------------------------------------------
 
 
 # Technology used 
